@@ -1,0 +1,30 @@
+.quotes
+{
+    text-align: center;
+}
+h1
+{
+    font-size:80px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-weight: 700;
+    color: RGB(0, 0, 0);
+}
+button
+{
+    background-color: blue;
+    color:white ;
+    width:18.5%;
+    height:80px;
+    font-size: 13.3333px;
+    font-weight: 400;
+}
+button:hover
+{
+    background-color: green;
+}
+p
+{
+    color: RGB(0, 0, 0);
+    font-weight: 400;
+    font-size: 35px;
+}
